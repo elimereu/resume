@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoctoral fellow in the National Centre of Genomic Analysis of Spain, working as computational scientist at the Single Cell Genomics Team headed by Holger Heyn. My research focus on the analysis of omics data that are from individual cells. Being in a high throughput sequencing center, I'm involved in a wide range of projects in collaboration with local and international research groups. As part of the Human Cell Atlas consortium, I recently worked in a multi-center benchmarking of 13 scRNA-seq protocols, with the aim of define guidelines and standards for cell atlas projects. 
+I'm a postdoctoral fellow in the National Centre of Genomic Analysis of Spain, working as computational scientist at the Single Cell Genomics Team. My research focus on the analysis of omics data that are from individual cells. Being in a high throughput sequencing center, I'm involved in a wide range of projects in collaboration with local and international research groups. As part of the Human Cell Atlas consortium, I recently worked in a multi-center benchmarking of 13 scRNA-seq protocols, with the aim of define guidelines and standards for cell atlas projects. 
 
 
