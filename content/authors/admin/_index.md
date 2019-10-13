@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Elisabetta Mereu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National Centre of Genomic Analysis (CNAG-CRG, Spain) 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include single-cell genomics, data science, cell biology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Single-cell genomics
+- Computational biology
+- Cancer biology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Statistical Genetics
+    institution: University of Cagliari
+    year: 2015
+  - course: MSc in Mathematics
+    institution: University of Cagliari
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Mathematics
+    institution: University of Cagliari
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a postdoctoral fellow in the National Centre of Genomic Analysis of Spain, working as computational scientist at the Single Cell Genomics Team headed by Holger Heyn. My research focus on the analysis of omics data that are from individual cells. Being in a high throughput sequencing center, I'm involved in a wide range of projects in collaboration with local and international research groups. As part of the Human Cell Atlas consortium, I recently worked in a multi-center benchmarking of 13 scRNA-seq protocols, with the aim of define guidelines and standards for cell atlas projects. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
