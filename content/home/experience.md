@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Computational Postdoc"
-  company = "Nacional Centre of Genomic Analysis"
+  company = "National Centre of Genomic Analysis (CNAG-CRG)"
   company_url = "https://www.cnag.crg.eu"
   location = "Barcelona (Spain)"
   date_start = "2016-05-16"
