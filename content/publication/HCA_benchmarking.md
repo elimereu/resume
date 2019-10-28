@@ -1,6 +1,6 @@
 +++
-title = "Using social media to characterize urban mobility patterns: State-of-the-art survey and case-study"
-date = "2017-06-01"
+title = "Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects"
+date = "2019-05-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
