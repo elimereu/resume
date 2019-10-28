@@ -8,7 +8,7 @@ authors = ["**Elisabetta Mereu**", "Atefeh Lafzi", "Catia Moutinho" , "Christoph
 "Adrian Alvarez","Eduard Batlle","Sagar","Dominic Grün","Julia K. Lau","Stéphane C. Boutet","Chad Sanada",
 "Aik Ooi","Robert C. Jones","Kelly Kaihara","Chris Brampton","Yasha Talaga","Yohei Sasagawa","Kaori Tanaka",
 "Tetsutaro Hayashi","Cornelius Fischer","Sascha Sauer","Timo Trefzer","Christian Conrad","Xian Adiconis","Lan T. Nguyen","Aviv Regev","Joshua Z. Levin","Swati Parekh","Aleksandar Janjic","Lucas E. Wange","Johannes W. Bagnoli",
-"Wolfgang Enard","Marta Gut","Rickard Sandberg","Itoshi Nikaido","Ivo Gut","Oliver Stegle","Holger Heyn"]
+"Wolfgang Enard","Marta Gut","Rickard Sandberg","Itoshi Nikaido","Ivo Gut","Oliver Stegle","Holger Heyn".]
 
 # Publication type.
 # Legend:
