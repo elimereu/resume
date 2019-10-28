@@ -54,7 +54,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "Journal"
-url = "https://www.sciencedirect.com/science/article/abs/pii/S2468696416300088"
+url = "https://doi.org/10.1101/753319"
 
 # Does the content use math formatting?
 math = true
