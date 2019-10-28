@@ -4,7 +4,7 @@ date = "2019-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Christian H. Holland","Jovan Tanevski","Jan Gleixner","Manu P. Kumar","**Elisabetta Mereu**","Brian A. Joughin","Oliver Stegle","Douglas A. Lauffenburger","Holger Heyn","Bence Szalai","Julio Saez-Rodriguez"]
+authors = ["Christian H Holland","Jovan Tanevski","Jan Gleixner","Manu P Kumar","**Elisabetta Mereu**","Brian A Joughin","Oliver Stegle","Douglas A Lauffenburger","Holger Heyn","Bence Szalai","Julio Saez-Rodriguez"]
 
 
 
