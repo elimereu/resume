@@ -1,5 +1,5 @@
 +++
-title = "Robustness and applicability of functional genomics tools on scRNA-seq data"
+title = "GATA2 Promotes Hematopoietic Development and Represses Cardiac Differentiation of Human Mesoderm"
 date = "2019-09-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -40,14 +40,14 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://www.sciencedirect.com/science/article/pii/S2213671119302619"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.sciencedirect.com/science/article/pii/S2213671119302619"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
