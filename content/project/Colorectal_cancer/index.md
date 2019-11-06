@@ -3,10 +3,10 @@ title: Heterogeneity in colorectal cancer.
 summary: In this study we used scRNA-seq to describe a previously unappreciated heterogeneity in colorectal cancer cells. 
 tags:
 - External
-date: "2018"
+date: "2019"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: " "
 
 image:
   caption: Tsnes
