@@ -6,7 +6,7 @@ tags:
 date: "2019"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/elimereu/matchSCore2"
 
 image:
   caption: Tsnes

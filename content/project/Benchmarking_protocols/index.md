@@ -6,7 +6,7 @@ tags:
 date: "2019"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: ""
+external_link: "https://doi.org/10.1101/630087"
 
 # image:
  #  caption: Tsnes
@@ -29,4 +29,4 @@ date: "2019"
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-https://doi.org/10.1101/630087
+
