@@ -6,21 +6,21 @@ tags:
 date: "2019"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
-image:
-  caption: Tsnes
-  focal_point: Smart
+# image:
+ #  caption: Tsnes
+  # focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# links:
+# - icon: twitter
+ #  icon_pack: fab
+  # name: Follow
+  # url: 
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
