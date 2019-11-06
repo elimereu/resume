@@ -1,4 +1,5 @@
 +++
+featured = true
 title = "Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects"
 date = "2019-05-13"
 
