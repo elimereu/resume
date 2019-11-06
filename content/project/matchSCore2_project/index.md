@@ -1,8 +1,8 @@
 ---
-title: Dissecting the molecular signatures of invasion in Glioblastoma.
-summary: In this study we compared three different genetic models to invastigate about the molecular mechanism of invasion in glioblastomas.
+title: matchSCore2.
+summary: matchSCore2 is a user-friendly R package that allows a fast and robust annotation of cell identity by using a reference dataset.
 tags:
-- External
+- Internal
 date: "2019"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: 
+  url: "https://github.com/elimereu/matchSCore2"
 url_code: ""
 url_pdf: ""
 url_slides: ""
