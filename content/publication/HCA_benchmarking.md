@@ -24,7 +24,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects"
-publication_short = "HCA Benchmarking"
+publication_short = ""
 
 
 # Abstract and optional shortened version.
