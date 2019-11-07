@@ -22,7 +22,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*bigSCale: An Analytical Framework for Big-Scale Single-Cell Data"
-publication_short = "bigSCale"
+publication_short = ""
 
 
 # Abstract and optional shortened version.
@@ -48,13 +48,13 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "10.1101/gr.230771.117"
+url_source = "https://genome.cshlp.org/content/28/6/878.short"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "Journal"
-url = "10.1101/gr.230771.117"
+url = "https://genome.cshlp.org/content/28/6/878.short"
 
 # Does the content use math formatting?
 math = true

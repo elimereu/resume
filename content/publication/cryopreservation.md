@@ -22,7 +22,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Single-cell transcriptome conservation in cryopreserved cells and tissues"
-publication_short = "cryo"
+publication_short = ""
 
 
 # Abstract and optional shortened version.
@@ -48,13 +48,13 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "10.1186/s13059-017-1171-9"
+url_source = "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1171-9"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "Journal"
-url = "10.1186/s13059-017-1171-9"
+url = "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1171-9"
 
 # Does the content use math formatting?
 math = true

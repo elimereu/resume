@@ -21,7 +21,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*GATA2 Promotes Hematopoietic Development and Represses Cardiac Differentiation of Human Mesoderm"
-publication_short = "GATA2 in hematopoiesis"
+publication_short = ""
 
 
 # Abstract and optional shortened version.

@@ -22,7 +22,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Dual MET and ERBB inhibition overcomes intratumor plasticity in osimertinib-resistant-advanced non-small-cell lung cancer (NSCLC)."
-publication_short = "kras_vs_egfr"
+publication_short = ""
 
 
 # Abstract and optional shortened version.
@@ -48,7 +48,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "10.1093/annonc/mdx396"
+url_source = "https://academic.oup.com/annonc/article/28/10/2451/3983267"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

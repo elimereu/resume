@@ -21,7 +21,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Robustness and applicability of functional genomics tools on scRNA-seq data"
-publication_short = "Benchmarking functional genomics tools"
+publication_short = ""
 
 
 # Abstract and optional shortened version.

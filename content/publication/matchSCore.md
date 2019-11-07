@@ -22,11 +22,11 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*matchSCore: Matching Single-Cell Phenotypes Across Tools and Experiments"
-publication_short = "matchSCore benchmarking"
+publication_short = ""
 
 
 # Abstract and optional shortened version.
-abstract = "Single-cell transcriptomics allows the identification of cellular types, subtypes and states through cell clustering. In this process, similar cells are grouped before determining co-expressed marker genes for phenotype inference. The performance of computational tools is directly associated to their marker identification accuracy, but the lack of an optimal solution challenges a systematic method comparison. Moreover, phenotypes from different studies are challenging to integrate, due to varying resolution, methodology and experimental design. In this work we introduce matchSCore (https://github.com/elimereu/matchSCore), an approach to match cell populations fast across tools, experiments and technologies. We compared 14 computational methods and evaluated their accuracy in clustering and gene marker identification in simulated data sets. We further used matchSCore to project cell type identities across mouse and human cell atlas projects. Despite originating from different technologies, cell populations could be matched across data sets, allowing the assignment of clusters to reference maps and their annotation."
+abstract = "Single-cell transcriptomics allows the identification of cellular types, subtypes and states through cell clustering. In this process, similar cells are grouped before determining co-expressed marker genes for phenotype inference. The performance of computational tools is directly associated to their marker identification accuracy, but the lack of an optimal solution challenges a systematic method comparison. Moreover, phenotypes from different studies are challenging to integrate, due to varying resolution, methodology and experimental design. In this work we introduce matchSCore (https://github.com/elimereu/matchSCore2), an approach to match cell populations fast across tools, experiments and technologies. We compared 14 computational methods and evaluated their accuracy in clustering and gene marker identification in simulated data sets. We further used matchSCore to project cell type identities across mouse and human cell atlas projects. Despite originating from different technologies, cell populations could be matched across data sets, allowing the assignment of clusters to reference maps and their annotation."
 
 # Featured image thumbnail (optional)
 image_preview = ""
