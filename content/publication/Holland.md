@@ -38,14 +38,14 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1949-z"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1949-z"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
