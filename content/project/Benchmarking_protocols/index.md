@@ -17,7 +17,7 @@ external_link: "https://www.nature.com/articles/s41587-020-0469-4"
 # - icon: twitter
  #  icon_pack: fab
   # name: Follow
-  url: "https://bioengineeringcommunity.nature.com/users/365693-joshua-levin/posts/65108-tbd" 
+  # url: "https://bioengineeringcommunity.nature.com/users/365693-joshua-levin/posts/65108-tbd" 
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
