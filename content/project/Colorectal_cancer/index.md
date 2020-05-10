@@ -1,12 +1,12 @@
 ---
-title: Heterogeneity in colorectal cancer.
-summary: In this study we used scRNA-seq to describe a previously unappreciated heterogeneity in colorectal cancer cells. 
+title: Zonation of ribosomal DNA transcription defines a stem cell hierarchy in colorectal cancer.
+summary: In this study we used scRNA-seq to describe a previously unappreciated heterogeneity in colorectal cancer cells (In press on Cell Stem Cell). 
 tags:
 - External
-date: "2019"
+date: "2020"
 
 # Optional external URL for project (replaces project detail page).
-external_link: " "
+external_link: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148345"
 
 image:
   caption: Tsnes
@@ -30,3 +30,4 @@ url_video: ""
 slides: example
 ---
 
+Colorectal cancers (CRCs) are composed of an amalgam of cells with distinct genotypes and phenotypes. Here we reveal a previously unappreciated heterogeneity in the biosynthetic capacities of CRC cells. We discover that the majority of ribosomal DNA transcription and protein synthesis in CRCs occur in a limited subset of tumor cells that localize in defined niches. The rest of the tumor cells undergo an irreversible loss of their biosynthetic capacities as a consequence of differentiation. Cancer cells within the biosynthetic domains are characterized by elevated levels of the RNA Polymerase 1 subunit A - POLR1A. Genetic ablation of POLR1A-high cell population imposes an irreversible growth arrest to CRCs. We show that elevated biosynthesis defines stemness in both LGR5+ and LGR5- tumor cells. Therefore, a common architecture in CRC is a simple cell hierarchy based on the differential capacity to transcribe ribosomal DNA and synthesize proteins.

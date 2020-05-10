@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoctoral fellow in the National Centre of Genomic Analysis of Spain, working as computational scientist at the Single Cell Genomics Team. My research focus on the analysis of omics data that are from individual cells. Being in a high throughput sequencing center, I'm involved in a wide range of projects in collaboration with local and international research groups. As part of the Human Cell Atlas consortium, I recently worked on a multi-center benchmarking of 13 scRNA-seq protocols, with the aim of define guidelines and standards for cell atlas projects. 
+I'm a postdoctoral fellow in the National Centre of Genomic Analysis of Spain, working as computational scientist at the Single Cell Genomics Team. My research focus on the analysis of omics data that are from individual cells. Being in a high throughput sequencing center, I'm involved in a wide range of projects in collaboration with local and international research groups. As part of the Human Cell Atlas consortium, I work on the benchmarking of scRNA-seq protocols and the integration of multi-modality sequencing data (e.g. sc/scRNA-seq, bulk-RNA-seq, spatial transcriptomics and scMNT-seq) in order to quantify reproducibility and complementarity across methods. I'm also part of the Expression and Spatial analysis Pancreas Atlas Consortium Europe (ESPACE) for the generation of the first version of the Human Cell Atlas of the Pancreas.
+
+
+
 
 

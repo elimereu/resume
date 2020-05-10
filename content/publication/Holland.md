@@ -1,12 +1,10 @@
 +++
 title = "Robustness and applicability of functional genomics tools on scRNA-seq data"
-date = "2019-09-01"
+date = "2020-02-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Christian H. Holland","Jovan Tanevski","Jan Gleixner","Manu P. Kumar","**Elisabetta Mereu**","Brian A. Joughin","Oliver Stegle","Douglas A. Lauffenburger","Holger Heyn","Bence Szalai","Julio Saez-Rodriguez"]
-
-
+authors = ["Christian H. Holland","Jovan Tanevski","Javier Perales-Patón","Jan Gleixner","Manu P. Kumar","**Elisabetta Mereu**","Brian A. Joughin","Oliver Stegle","Douglas A. Lauffenburger","Holger Heyn","Bence Szalai","Julio Saez-Rodriguez"]
 
 # Publication type.
 # Legend:
@@ -25,7 +23,9 @@ publication_short = ""
 
 
 # Abstract and optional shortened version.
-abstract = "Many tools have been developed to extract functional and mechanistic insight from bulk transcriptome profiling data. With the advent of single-cell RNA sequencing (scRNA-seq), it is in principle possible to do such an analysis for single cells. However, scRNA-seq data has specific characteristics such as drop-out events, low library sizes and a comparatively large number of samples/cells. It is thus not clear if functional genomic tools established for bulk sequencing can be applied on scRNA-seq in a meaningful way. To address this question, we performed benchmark studies on in silico and in vitro single-cell RNA-seq data. We focused on the tools PROGENy and VIPER that estimate pathway and transcription factor (TF) activities, respectively. For the in silico study we simulated single cells from TF/pathway perturbation bulk RNA-seq experiments. Our simulation strategy guaranteies that the information of the original perturbation is preserved while resembling the characteristics of scRNA-seq data. We complemented the in silico data with in vitro scRNA-seq data upon CRISPR-mediated knock-out. Our benchmarks on both the simulated and in vitro data revealed comparable performance to the original bulk data. Additionally, we showed that the TF and pathways activities preserve cell-type specific variability by analysing a mixture sample sequenced with 13 scRNA-seq different protocols. Our analyses suggest that functional genomics tools can be used on scRNA-seq data, and provide a benchmark for further methods development by the community."
+abstract = "Background: Many functional analysis tools have been developed to extract functional and mechanistic insight from bulk transcriptome data. With the advent of single-cell RNA sequencing (scRNA-seq), it is in principle possible to do such an analysis for single cells. However, scRNA-seq data has characteristics such as drop-out events and low library sizes. It is thus not clear if functional TF and pathway analysis tools established for bulk sequencing can be applied to scRNA-seq in a meaningful way.
+Results: To address this question, we perform benchmark studies on simulated and real scRNA-seq data. We include the bulk-RNA tools PROGENy, GO enrichment, and DoRothEA that estimate pathway and transcription factor (TF) activities, respectively, and compare them against the tools SCENIC/AUCell and metaVIPER, designed for scRNA-seq. For the in silico study, we simulate single cells from TF/pathway perturbation bulk RNA-seq experiments. We complement the simulated data with real scRNA-seq data upon CRISPR-mediated knock-out. Our benchmarks on simulated and real data reveal comparable performance to the original bulk data. Additionally, we show that the TF and pathway activities preserve cell type-specific variability by analyzing a mixture sample sequenced with 13 scRNA-seq protocols. We also provide the benchmark data for further use by the community.
+Conclusions: Our analyses suggest that bulk-based functional analysis tools that use manually curated footprint gene sets can be applied to scRNA-seq data, partially outperforming dedicated single-cell tools. Furthermore, we find that the performance of functional analysis tools is more sensitive to the gene sets than to the statistic used."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -40,7 +40,7 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://doi.org/10.1101/753319"
+url_preprint = "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1949-z"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -53,7 +53,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "Journal"
-url = "https://doi.org/10.1101/753319"
+url = "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1949-z"
 
 # Does the content use math formatting?
 math = true

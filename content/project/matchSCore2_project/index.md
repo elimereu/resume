@@ -3,7 +3,7 @@ title: matchSCore2.
 summary: matchSCore2 is a user-friendly R package that allows a fast and robust annotation of cell identity by using a reference dataset.
 tags:
 - Internal
-date: "2019"
+date: "2020"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/elimereu/matchSCore2"
@@ -16,8 +16,8 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: "https://github.com/elimereu/matchSCore2"
-url_code: ""
+  url: "https://www.nature.com/articles/s41587-020-0469-4"
+url_code: "https://github.com/elimereu/matchSCore2"
 url_pdf: ""
 url_slides: ""
 url_video: ""

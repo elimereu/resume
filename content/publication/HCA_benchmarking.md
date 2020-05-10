@@ -1,7 +1,7 @@
 +++
 featured = true
 title = "Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects"
-date = "2019-05-13"
+date = "2020-04-6"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -10,6 +10,7 @@ authors = ["**Elisabetta Mereu**", "Atefeh Lafzi", "Catia Moutinho" , "Christoph
 "Aik Ooi","Robert C. Jones","Kelly Kaihara","Chris Brampton","Yasha Talaga","Yohei Sasagawa","Kaori Tanaka",
 "Tetsutaro Hayashi","Cornelius Fischer","Sascha Sauer","Timo Trefzer","Christian Conrad","Xian Adiconis","Lan T. Nguyen","Aviv Regev","Joshua Z. Levin","Swati Parekh","Aleksandar Janjic","Lucas E. Wange","Johannes W. Bagnoli",
 "Wolfgang Enard","Marta Gut","Rickard Sandberg","Itoshi Nikaido","Ivo Gut","Oliver Stegle","Holger Heyn"]
+
 
 # Publication type.
 # Legend:
@@ -43,20 +44,20 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://doi.org/10.1101/630087"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.nature.com/articles/s41587-020-0469-4"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "Journal"
-url = "https://doi.org/10.1101/630087"
+url = "https://www.nature.com/articles/s41587-020-0469-4"
 
 # Does the content use math formatting?
 math = true
@@ -71,5 +72,6 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
+
 
 
