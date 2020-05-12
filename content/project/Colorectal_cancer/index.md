@@ -1,6 +1,6 @@
 ---
 title: Zonation of ribosomal DNA transcription defines a stem cell hierarchy in colorectal cancer.
-summary: In this study we used scRNA-seq to describe a previously unappreciated heterogeneity in colorectal cancer cells (In press on Cell Stem Cell). 
+summary: In this study we used scRNA-seq to describe a previously unappreciated heterogeneity in colorectal cancer cells (NEW!). 
 tags:
 - External
 date: "2020"
