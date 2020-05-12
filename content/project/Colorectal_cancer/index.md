@@ -6,7 +6,7 @@ tags:
 date: "2020"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148345"
+external_link: "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(20)30151-X?rss=yes"
 
 image:
   caption: Tsnes
