@@ -1,7 +1,7 @@
 +++
 featured = true
 title = "Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects"
-date = "2020-04-6"
+date = "2020-04-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
