@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+title = "Group Leader of the Cellular Systems Genomics Group"
+company = "Josep Carreras Research Institute"
+company_url = "https://www.carrerasresearch.org/en/"
+location = "Barcelona (Spain)"
+date_start = "2021-01-01"
+date_end = ""
+description = """
+
+[[experience]]
   title = "Computational Postdoc"
   company = "National Centre of Genomic Analysis (CNAG-CRG)"
   company_url = "https://www.cnag.crg.eu"
   location = "Barcelona (Spain)"
   date_start = "2016-05-16"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """
   Responsibilities include:
   
