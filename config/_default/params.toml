@@ -94,10 +94,10 @@ address = {street = "Ctra de Can Ruti, Camí de les Escoles, s/n, Badalona", cit
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.381865", longitude = "2.116623"}
+coordinates = {latitude = "41.48572", longitude = "2.23981"}
 
 # Directions for visitors to locate you.
-directions = "Ctra de Can Ruti, Camí de les Escoles, s/n, Badalona - Ground Floor"
+directions = "IJC - Ground Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
