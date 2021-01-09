@@ -85,19 +85,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mereu.elisabetta@gmail.com"
+email = "emereu@carrerasresearch.org"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Carrer Baldiri Reixac,4", city = "Barcelona", postcode = "08028", country = "Spain"}
+address = {street = "Ctra de Can Ruti, Camí de les Escoles, s/n, Badalona", city = "Barcelona", postcode = "08916", country = "Spain"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "41.381865", longitude = "2.116623"}
 
 # Directions for visitors to locate you.
-directions = "Parc Cientific de Barcelona - Torre I - 2 floor"
+directions = "Ctra de Can Ruti, Camí de les Escoles, s/n, Badalona - Ground Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
