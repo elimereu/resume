@@ -26,6 +26,8 @@ date_start = "2021-01-01"
 date_end = ""
 description = """
 
+"""
+
 [[experience]]
   title = "Computational Postdoc"
   company = "National Centre of Genomic Analysis (CNAG-CRG)"
