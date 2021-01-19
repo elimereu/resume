@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
 title = "Group Leader of the Cellular Systems Genomics Group"
 company = "Josep Carreras Research Institute"
-company_url = "https://www.carrerasresearch.org/en/"
+company_url = "https://www.carrerasresearch.org/en/cellular-systems-genomics_169432"
 location = "Barcelona (Spain)"
 date_start = "2021-01-01"
 date_end = ""
