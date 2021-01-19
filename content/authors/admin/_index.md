@@ -15,7 +15,7 @@ role: Group Leader of the Cellular Systems Genomics Group
 # Organizations/Affiliations
 organizations:
 - name: Josep Carreras Research Institute (Barcelona, Spain) 
-  url: "https://www.carrerasresearch.org/en/"
+  url: "https://www.carrerasresearch.org/en/cellular-systems-genomics_169432"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on Single Cell and Spatial Genomics, Machine Learning, Human Cell Atlas,  Autoimmunity and Inflammatory disorders.
